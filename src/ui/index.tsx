@@ -1,6 +1,12 @@
 import React from 'react'
 import type { AppProps } from 'next/app'
 
-const App = ({ Component, pageProps }: AppProps) => <Component {...pageProps} />
+import StyledComponentsRegistry from 'config/styledComponentsRegistry'
+
+const App = ({ Component, pageProps }: AppProps) => (
+  <StyledComponentsRegistry>
+    <Component {...pageProps} />
+  </StyledComponentsRegistry>
+)
 
 export default App

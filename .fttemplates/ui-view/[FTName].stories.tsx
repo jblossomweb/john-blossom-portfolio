@@ -4,7 +4,7 @@ import type { StoryFn, Meta } from '@storybook/react'
 import <FTName | capitalize> from './<FTName | capitalize>'
 
 export default {
-  title: title: 'views/<FTName | capitalize>',
+  title: 'views/<FTName | capitalize>',
   component: <FTName | capitalize>,
 } as Meta<typeof <FTName | capitalize>>
 

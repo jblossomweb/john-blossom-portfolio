@@ -46,6 +46,8 @@
       }
     ],
     "semi": ["error", "never"],
-    "arrow-body-style": ["error", "as-needed"]
+    "arrow-body-style": ["error", "as-needed"],
+    "import/prefer-default-export": "off",
+    "import/no-extraneous-dependencies": "off"
   }
 }

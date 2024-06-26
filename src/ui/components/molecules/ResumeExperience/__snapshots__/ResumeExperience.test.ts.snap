@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ui/components/molecules/ResumeExperience stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="w-full pb-6"
+  >
+    <div
+      class="flex flex-row justify-start align-center gap-2"
+    >
+      <div
+        class="sc-722df74f-0 ldxkvX"
+      >
+        <figure
+          class=""
+        >
+          <img
+            alt="Bitly"
+            aria-label="Bitly"
+            data-nimg="1"
+            decoding="async"
+            height="50"
+            loading="lazy"
+            src="/_next/image?url=%2Flogos%2Fbitly.png&w=128&q=75"
+            srcset="/_next/image?url=%2Flogos%2Fbitly.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fbitly.png&w=128&q=75 2x"
+            style="color: transparent;"
+            title="Bitly"
+            width="50"
+          />
+        </figure>
+      </div>
+      <div
+        class="sc-722df74f-0 ldxkvX"
+      >
+        <h3
+          class="text-xl font-bold italic"
+        >
+          Senior Front End Engineer, UX Team
+        </h3>
+        <h4
+          class="text-lg font-bold pb-2"
+        >
+          Bitly 
+          <span
+            class="text-sm font-normal"
+          >
+            (2022-2023)
+          </span>
+        </h4>
+      </div>
+    </div>
+    <p
+      class="w-full text-base"
+    >
+      Led 5 Front End engineers on a cross-functional product squad responsible for UX of link-shortening and QR code management application. Shipped features and fixes for Bitly Dashboard along with other internal tools using React, Redux, and Typescript. Improved readability of codebase, safely refactored problematic code as needed, introduced useful, accessible patterns and tools, and initiated impactful discussions around best practices and code organization, all while balancing commitments of agile feature delivery. Helped teammates move tickets to the finish line, and measurably increased team velocity on 2 squads, in addition to the senior level role held on Front End Guild. Leveled up mid, junior, and intern engineers across the company. Paired in real-time and provided insightful, educational feedback in code reviews.
+    </p>
+  </div>
+</DocumentFragment>
+`;
