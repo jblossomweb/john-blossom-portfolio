@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ui/views/HomePage component stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="px-8 py-0"
+  >
+    <main
+      class="min-h-screen px-0 py-16 flex flex-col justify-center items-center"
+    >
+      <h1
+        class="text-4xl text-center"
+      >
+        Welcome to 
+        <a
+          href="https://nextjs.org"
+          rel="noreferrer"
+          target="_blank"
+        >
+          Next.js!
+        </a>
+      </h1>
+      <p
+        class="text-center mx-0 my-16 text-base"
+      >
+        Get started by editing 
+        <code
+          class="p-2 rounded-md bg-slate-300 text-sm font-mono"
+        >
+          app/views/HomePage/HomePage.tsx
+        </code>
+      </p>
+      <div
+        class="mx-0 my-0"
+      >
+        <figure
+          class=""
+        >
+          <img
+            alt="Next.js"
+            aria-label="Next.js"
+            data-nimg="1"
+            decoding="async"
+            height="48"
+            loading="lazy"
+            src="/_next/image?url=%2Fnextjs.png&w=256&q=75"
+            srcset="/_next/image?url=%2Fnextjs.png&w=96&q=75 1x, /_next/image?url=%2Fnextjs.png&w=256&q=75 2x"
+            style="color: transparent;"
+            title="Next.js"
+            width="80"
+          />
+        </figure>
+      </div>
+    </main>
+  </div>
+</DocumentFragment>
+`;

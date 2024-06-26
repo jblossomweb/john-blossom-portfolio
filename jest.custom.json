@@ -1,0 +1,23 @@
+{
+  "testEnvironment": "jest-environment-jsdom",
+  "testPathIgnorePatterns": ["/node_modules/", "/.fttemplates/"],
+  "moduleFileExtensions": ["js", "jsx", "ts", "tsx", "d.ts"],
+  "moduleNameMapper": {
+    "^api/(.*)": "<rootDir>/src/api/$1",
+    "^ui/(.*)": "<rootDir>/src/ui/$1",
+    "^test/(.*)": "<rootDir>/test/$1"
+  },
+  "coverageProvider": "babel",
+  "collectCoverageFrom": [
+    "src/{api,ui}/**/*.{js,jsx,ts,tsx}",
+    "!**/*.d.ts",
+    "!**/*.stories.tsx",
+    "!src/api/**/index.ts",
+    "!src/api/index.tsx",
+    "!src/ui/**/index.ts",
+    "!src/ui/index.tsx",
+    "!src/ui/components/**/index.ts",
+    "!**/node_modules/**",
+    "!**/.fttemplates/**"
+  ]
+}

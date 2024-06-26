@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-white text-black;
+}
+
+a {
+  @apply text-blue-500 no-underline;
+}
+
+a:hover,
+a:focus,
+a:active {
+  @apply underline;
+}

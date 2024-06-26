@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ui/components/atoms/Link stories External matches markup snapshot 1`] = `
+<DocumentFragment>
+  <a
+    href="https://www.google.com/"
+    rel="noreferrer"
+    target="_blank"
+  >
+    Link to External Url
+  </a>
+</DocumentFragment>
+`;
+
+exports[`ui/components/atoms/Link stories Internal matches markup snapshot 1`] = `
+<DocumentFragment>
+  <a
+    href="/route"
+  >
+    Link to Internal Route
+  </a>
+</DocumentFragment>
+`;
+
+exports[`ui/components/atoms/Link stories NoChildren matches markup snapshot 1`] = `
+<DocumentFragment>
+  <a
+    href="https://www.google.com/"
+  />
+</DocumentFragment>
+`;

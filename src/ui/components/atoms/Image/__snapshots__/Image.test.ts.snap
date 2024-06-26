@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ui/components/atoms/Image stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <figure
+    class=""
+  >
+    <img
+      alt="Sample"
+      aria-label="Sample"
+      data-nimg="1"
+      decoding="async"
+      height="192"
+      loading="lazy"
+      src="/_next/image?url=%2Fnextjs.png&w=640&q=75"
+      srcset="/_next/image?url=%2Fnextjs.png&w=384&q=75 1x, /_next/image?url=%2Fnextjs.png&w=640&q=75 2x"
+      style="color: transparent;"
+      title="Sample"
+      width="320"
+    />
+  </figure>
+</DocumentFragment>
+`;
+
+exports[`ui/components/atoms/Image stories Sized matches markup snapshot 1`] = `
+<DocumentFragment>
+  <figure
+    class=""
+  >
+    <img
+      alt="Sized"
+      aria-label="Sized"
+      data-nimg="1"
+      decoding="async"
+      height="384"
+      loading="lazy"
+      src="/_next/image?url=%2Fnextjs.png&w=1920&q=75"
+      srcset="/_next/image?url=%2Fnextjs.png&w=640&q=75 1x, /_next/image?url=%2Fnextjs.png&w=1920&q=75 2x"
+      style="color: transparent;"
+      title="Sized"
+      width="640"
+    />
+  </figure>
+</DocumentFragment>
+`;
