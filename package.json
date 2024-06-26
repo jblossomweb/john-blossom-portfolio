@@ -15,14 +15,15 @@
     "test": "jest",
     "test:watch": "jest --watchAll",
     "test:coverage": "jest --coverage",
-    "test:ci": "jest --ci",
+    "test:ci": "NODE_ENV=test jest --ci",
     "storybook": "storybook dev -p 6006",
     "storybook:build": "storybook build"
   },
   "dependencies": {
-    "next": "^14.2.3",
+    "next": "^14.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^5.2.1",
     "styled-components": "^6.1.11",
     "tailwind-styled-components": "^2.2.0"
   },

@@ -15,3 +15,11 @@ a:focus,
 a:active {
   @apply underline;
 }
+
+h1 {
+  @apply text-4xl font-extrabold leading-relaxed;
+}
+
+h2 {
+  @apply text-2xl font-bold leading-10;
+}

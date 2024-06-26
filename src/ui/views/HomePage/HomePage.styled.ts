@@ -1,36 +1,59 @@
+import styled from 'styled-components'
 import tw from 'tailwind-styled-components'
 
-export const Container = tw.div`
-  px-8 py-0
+import * as UiIcons from 'ui/icons'
+import fadeIn from 'ui/animations/fadeIn'
+import constants from 'ui/constants.json'
+
+const { md } = constants.breakpoints
+
+export const Title = styled.h1`
+  font-size: 4rem;
+  line-height: 6rem;
+  animation: ${fadeIn} 1s ease-in;
+
+  @media (min-width: ${md}px) {
+    font-size: 6rem;
+    line-height: 9rem;
+  }
 `
 
-export const Main = tw.main`
-  min-h-screen
-  px-0 py-16
-  flex flex-col
+export const SubTitle = styled.h2`
+  font-size: 1.5rem;
+  line-height: 2rem;
+  animation: ${fadeIn} 2s ease-in;
+
+  @media (min-width: ${md}px) {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+`
+
+export const Icons = tw.div`
+  p-4
+  flex flex-row
   justify-center
   items-center
+  gap-6
+  text-7xl
 `
 
-export const Title = tw.h1`
-  text-4xl
-  text-center
+export const ReactIcon = styled(UiIcons.React)`
+  font-size: inherit;
+  animation: ${fadeIn} 3s ease-in;
 `
 
-export const Description = tw.p`
-  text-center
-  mx-0 my-16
-  leading-5
-  text-base
+export const ReduxIcon = styled(UiIcons.Redux)`
+  font-size: inherit;
+  animation: ${fadeIn} 3s ease-in;
 `
 
-export const Code = tw.code`
-  p-2 rounded-md
-  bg-slate-300
-  text-sm
-  font-mono
+export const TypescriptIcon = styled(UiIcons.Typescript)`
+  font-size: inherit;
+  animation: ${fadeIn} 3s ease-in;
 `
 
-export const Footer = tw.div`
-  mx-0 my-0
+export const NextIcon = styled(UiIcons.Next)`
+  font-size: inherit;
+  animation: ${fadeIn} 3s ease-in;
 `

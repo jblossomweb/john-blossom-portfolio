@@ -2,6 +2,15 @@ import React from 'react'
 import type { Meta as StoryMeta, StoryObj } from '@storybook/react'
 import { render, cleanup } from '@testing-library/react'
 
+jest.mock('next/router', () => ({
+  useRouter: () => ({
+    route: '/',
+    pathname: '/',
+    query: '',
+    asPath: '',
+  }),
+}))
+
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 type AnyComponent = React.ComponentClass | React.FC<any>
 

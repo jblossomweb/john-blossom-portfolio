@@ -1,0 +1,201 @@
+[
+  {
+    "heading": "Professional Experience",
+    "experiences": [
+      {
+        "title": "Senior Front End Engineer",
+        "team": "UX Team",
+        "company": "Bitly",
+        "logo": "bitly.png",
+        "start": 2022,
+        "end": 2023,
+        "type": "Remote",
+        "location": "Denver, CO",
+        "description": "Led 5 Front End engineers on a cross-functional product squad responsible for UX of link-shortening and QR code management application. Shipped features and fixes for Bitly Dashboard along with other internal tools using React, Redux, and Typescript. Improved readability of codebase, safely refactored problematic code as needed, introduced useful, accessible patterns and tools, and initiated impactful discussions around best practices and code organization, all while balancing commitments of agile feature delivery. Helped teammates move tickets to the finish line, and measurably increased team velocity on 2 squads, in addition to the senior level role held on Front End Guild. Leveled up mid, junior, and intern engineers across the company. Paired in real-time and provided insightful, educational feedback in code reviews."
+      },
+      {
+        "title": "Senior Front End Engineer",
+        "team": "Simplecast Team",
+        "company": "SiriusXM",
+        "logo": "siriusxm.png",
+        "start": 2020,
+        "end": 2021,
+        "type": "Remote",
+        "location": "Denver, CO",
+        "description": "Built and supported features for Vue.js front ends. Contributed to podcast dashboard application and shared component library. Mentored 3 frontend engineers, and provided friendly, constructive feedback in code reviews. Introduced Typescript, Jest testing, Storybook snapshots, changelogs, and release versioning. Fixed Webpack configurations and CI pipelines. Audited dependencies. Optimized usage of Vuex. Laid groundwork for localization in 3 languages. Increased test coverage, and coverage thresholds. Identified, documented, and reduced tech debt. Proactively identified and eliminated impure state mutations that would be otherwise difficult to trace, before they became problems."
+      },
+      {
+        "title": "Senior Front End Engineer",
+        "team": "Ads/Monetization",
+        "company": "Weedmaps",
+        "logo": "weedmaps.png",
+        "start": 2019,
+        "end": 2019,
+        "type": "On-Site / Remote",
+        "location": "Irvine, CA",
+        "description": "Supported high-traffic Next.js app. Senior engineer on squad, and interim squad lead. Refactored and improved React components as needed. Reviewed pull requests. Added promo code features to checkout, and improved segment tracking analytics. Attended in-person monthly meetings in Irvine, CA. Helped define scope for requested features. Worked with existing setup of MobX, Flow, and Styled Components. Improved and added features to web SDK, wrote tests into SDK involving Polly.JS. Built tools into the internal Admin application as needed. Offered code reviews within the Front End guild. Learned and worked with Google Ad Manager to facilitate successful handoffs."
+      },
+      {
+        "title": "Senior Front End Lead",
+        "team": "Solstice Cloud Team",
+        "company": "Mersive Technologies",
+        "logo": "mersive.png",
+        "start": 2018,
+        "end": 2019,
+        "type": "On-Site",
+        "location": "Denver, CO",
+        "description": "Helped launch SAAS platform to visualize real-time data from set-top boxes. Dockerized server-side APIs for cloud orchestration handoff. Inherited React dashboard application, onboarding application, and various pieces of set-top box UX built with React, Redux, and Typescript. Introduced test patterns, increased coverage by 75%, and integrated Storybook. Decoupled client, isolated deploy pipeline, and defined a Git Flow build/release process with CI integration. Hired, trained, and led a 4-person Front-End team. Cleared blockers, and built features. Reviewed pull requests, mentored teammates, and increased velocity 400% by separating concern to facilitate concurrent development."
+      },
+      {
+        "title": "Senior Full-Stack Engineer",
+        "team": "Integrations Team Lead",
+        "company": "Baker Technologies",
+        "logo": "baker.png",
+        "start": 2017,
+        "end": 2018,
+        "type": "On-Site",
+        "location": "Denver, CO",
+        "description": "Built features into React web apps. Fixed server side bugs in legacy PHP systems. Used Node.js to deliver integrations with over 20 menu and point-of-sale systems.  Transitioned with reorganized squads to a Dockerized microservice architecture. Attended GCP workshops at Google HQ in Boulder. Promoted to team lead, and cross‑trained as scrum master. Interviewed engineering candidates in the hiring process, and reviewed demo projects submitted. Actively supported efforts of incoming CTO for implementation of agile methodologies, spread positivity, and cleared blockers for teammates. Cleaned the office when it got messy. Won a ping-pong tournament representing Baker at Denver Startup Games."
+      },
+      {
+        "title": "Node.js Web Services Engineer",
+        "team": null,
+        "start": 2015,
+        "end": 2016,
+        "company": "OneUp Sports",
+        "logo": "oneup.png",
+        "type": "On-Site",
+        "location": "Palm Beach, FL",
+        "description": "Built ETL workers and REST API web services powering official iOS/Android apps for pro and college sports teams in MLB, NFL, NHL, NBA, MLS, EPL, and NCAA, leveraging Node.js, Express, MongoDB, and AWS. Automated data retrieval and normalization from multiple source feeds. Migrated legacy data from SQL Server to MongoDB. Built a standalone single sign-on service, and integrated a Socket.io based real-time chat server. Documented API, and helped define scope for features. Helped frontend web developers debug Ember app. Worked closely with iOS and Android developers to gather requirements and triage bugs or feed issues. Maintained a long-term relationship as a contractor after leaving company."
+      }
+    ]
+  },
+  {
+    "heading": "Recent Contract Work",
+    "experiences": [
+      {
+        "title": "Principal Front End Engineer",
+        "team": null,
+        "company": "MiraDx",
+        "logo": "miradx.jpg",
+        "start": 2024,
+        "end": 2024,
+        "type": "Remote",
+        "location": "Denver, CO",
+        "description": "Supported 5 internal and external Next.js web portals powered by a Salesforce and Firebase back-end, used to track medical test orders and results. Introduced new patterns into React Typescript codebase. Refactored mission-critical components, pages, and forms. Implemented features under deadline, updated dependencies, and fixed hydration errors."
+      },
+      {
+        "title": "Staff Front End Engineer",
+        "team": null,
+        "company": "Cruisebound",
+        "logo": "cruisebound.jpg",
+        "start": 2023,
+        "end": 2023,
+        "type": "Remote",
+        "location": "Denver, CO",
+        "description": "Built features into Next.js cruise booking website. Introduced new patterns into React Typescript codebase, documented, and communicated usage to 3 different teams across 3 regions in multiple time zones. Trained, advised, actively included teams in USA, Latin America, and the Philippines. Added segment tracking analytics, and managed feature flag rollouts with GrowthBook. Repaired E2E tests, and added conditional logic based on feature flags. Paired and reviewed pull requests for all teams, and delegated code review for all pull requests as necessary."
+      },
+      {
+        "title": "Senior Front End Engineer",
+        "team": "CMS Team",
+        "company": "National Basketball Association",
+        "logo": "nba.png",
+        "start": 2021,
+        "end": 2021,
+        "type": "Remote",
+        "location": "Denver, CO",
+        "description": "Built Gutenberg components with React, Redux, and Typescript, to aid editors in migrating team content to headless CMS consumed by Next.js application powering NBA.com. Worked with other teams to optimize overall contributor experience. Trained engineers unaccustomed to React."
+      },
+      {
+        "title": "Senior Full-Stack Engineer",
+        "team": null,
+        "company": "Hear.com",
+        "logo": "hear.png",
+        "start": 2020,
+        "end": 2020,
+        "type": "Remote",
+        "location": "Denver, CO",
+        "description": "Led a 7-person squad distributed between the United States, Canada, and Germany, to deliver transitional solutions into web portals for a video-based hearing aid fitting SaaS product during COVID-19. Contributed full stack with pgSQL, Node.js, Express, React, Redux, and Typescript. Identified and addressed SQL injection vulnerabilities, and advised on planning for future event-driven architecture."
+      },
+      {
+        "title": "Full-Stack Software Engineer",
+        "team": "AdTech Team",
+        "company": "Media News Group",
+        "logo": "medianewsgroup.jpg",
+        "start": 2016,
+        "end": 2016,
+        "type": "On-Site",
+        "location": "Denver, CO",
+        "description": "Built features into AdTaxi application, using Meteor and React. Led effort to refactor code to favor NPM, ES6, and explicit module imports. Improved tabular data views, contributed to open source as needed. Helped QA fix test bugs, and increased E2E coverage with Selenium."
+      }
+    ]
+  },
+  {
+    "heading": "Early Career Highlights",
+    "experiences": [
+      {
+        "title": "Senior Full-Stack Software Engineer",
+        "team": null,
+        "company": "StarStar Mobile",
+        "logo": "starstar.jpg",
+        "type": "On-Site",
+        "location": "Ft. Lauderdale, FL",
+        "description": "Built mobile-first microsites with AngularJS and supported PHP systems to send links via text message upon incoming calls. Improved UX quality with each iteration. Built REST API into Symfony monolith. Introduced web-based client-side geolocation to increase position accuracy and reduce need to triangulate through cellular providers. Laid groundwork to seamlessly migrate web-based microsites to native apps with Ionic. Built internal dashboard with features utilizing Google Maps, charts, and real-time reporting. Built a wizard to quickly scaffold microsites."
+      },
+      {
+        "title": "Senior Full-Stack Software Engineer",
+        "team": "Cielo Team",
+        "company": "Cinema Equipment and Supplies",
+        "logo": "cinemaequip.png",
+        "type": "On-Site",
+        "location": "Miami, FL",
+        "description": "Led 5-person pivot team to build SaaS platform for movie theater monitoring/management. Fixed bugs and performance issues in inherited codebase. Pushed websocket events, transitioned application to real-time. Integrated Mandrill, Zendesk, and SalesForce. Built a secure admin panel to convert leads, onboard new customers, and manage new users. Added templates for transactional emails. Switched SVN repos to GIT, branched, isolated stable releases for demo/production. Documented, deployed Apache/MySQL changes to servers. Increased sprint velocity, and maintained positive burndown during scope creep. Iterated a facade to a functional beta within 3 months, and provided support."
+      },
+      {
+        "title": "Full-Stack Software Engineer",
+        "team": "E-Commerce Team",
+        "company": "VMR Products",
+        "logo": "v2cigs.png",
+        "type": "On-Site",
+        "location": "Miami, FL",
+        "description": "Built e-commerce solutions for industry-leading electronic cigarette brands. Migrated product and customer data to Magento. Targeted email campaigns. Localized Czech content and business logic. Built custom POS terminals for kiosks, integrated with previously unsupported payment gateway. Migrated from BaseCamp to JIRA, architected custom workflow and GIT integration. Trained junior developers, and internal users."
+      },
+      {
+        "title": "Full-Stack Software Engineer",
+        "team": null,
+        "company": "Highwinds CDN",
+        "logo": "highwinds.jpg",
+        "type": "On-Site",
+        "location": "Orlando, FL",
+        "description": "Gained valuable experience working for a CDN. Supported AngularJS client and PHP/Slim REST API for StrikeTracker 3. Fully optimized responsive design for mobile devices within 1 sprint. Fixed bugs and developed new features to TDD spec. Used PHPUnit to write meaningful tests for missing coverage reported by Clover. Used Fabric, Vagrant, Selenium, and Protractor to write and automate E2E tests. Leveled up on QA, design patterns, and basics of algorithmic time complexity. Became disciplined to stricter coding standards and timeboxing. Gained experience with repository pattern, inversion of control, dependency injection, modularity, testability, unit testing, e2e testing, and build stability."
+      },
+      {
+        "title": "Full-Stack Web Developer",
+        "team": "CardOffers Team",
+        "company": "FlexOffers",
+        "logo": "flexoffers.png",
+        "type": "On-Site",
+        "location": "Miami, FL",
+        "description": "Built a custom PHP MySQL web application to run on Windows/IIS7 stack. Wrote PHP code to consume SOAP feeds from financial institutions. Integrated this ETL into a custom-built Wordpress plugin. Used CodeIgniter MVC framework to serve up a standalone front end stack for imported and customized content in Wordpress database, while preserving Wordpress CMS interface. Hand-coded HTML, CSS, and Javascript to detailed specs from the in-house designer. Trained editors, managers, and SEO team, and customized Wordpress CMS interface to request."
+      },
+      {
+        "title": "Course Director, Instructor",
+        "team": "Server-Side Languages",
+        "company": "Full Sail University",
+        "logo": "fullsail.png",
+        "type": "On-Site",
+        "location": "Orlando, FL",
+        "description": "Taught accelerated PHP, ColdFusion, and MVC Frameworks courses at an accredited university. Wrote curriculum, lectured classroom, and graded projects. Worked closely with program director and Databases instructor to contribute ideas for evolving course catalog. Developed boilerplate apps for students. Worked 1:1 with each student to ensure understanding of material. Received 100% approval rating from anonymous student reviews."
+      },
+      {
+        "title": "Web Developer",
+        "team": "College Platform Team",
+        "company": "Neulion",
+        "logo": "neulion.png",
+        "type": "On-Site",
+        "location": "Orlando, FL",
+        "description": "Built and launched official sports websites onto proprietary CMS, under tight deadlines. Added features and supported over 200 existing sites on the network. Fine-tuned HTML, CSS, and Javascript for cross-browser compatibility, including IE6. Used jQuery for AJAX functionality and visual effects. Improved Oracle SQL queries for performance in a high-load environment. Learned from seniors on staff at first, and grew to eventually help train new developers, project managers, support staff, and web producers. Adapted to change through two corporate mergers."
+      }
+    ]
+  }
+]

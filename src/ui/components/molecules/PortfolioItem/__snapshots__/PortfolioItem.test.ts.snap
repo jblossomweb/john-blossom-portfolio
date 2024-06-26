@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ui/components/molecules/PortfolioItem stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="pb-8 w-full lg:w-96 text-base"
+  >
+    <h2
+      class="pb-2"
+    >
+      Cruisebound
+    </h2>
+    <div
+      class="flex align-center justify-center pb-4"
+    >
+      <figure
+        class=""
+      >
+        <img
+          alt="Cruisebound"
+          aria-label="Cruisebound"
+          data-nimg="1"
+          decoding="async"
+          height="356"
+          loading="lazy"
+          src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcruisebound.jpg&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcruisebound.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcruisebound.jpg&w=3840&q=75 2x"
+          style="color: transparent;"
+          title="Cruisebound"
+          width="1140"
+        />
+      </figure>
+    </div>
+    <p
+      class=""
+    >
+      Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+    </p>
+  </div>
+</DocumentFragment>
+`;

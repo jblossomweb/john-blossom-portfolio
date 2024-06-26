@@ -1,0 +1,1584 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ui/views/PortfolioPage component stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <nav
+    class="bg-white drop-shadow border-gray-200 dark:bg-gray-900 flex items-center sc-bc212895-0 bDifmG"
+  >
+    <div
+      class="max-w-screen-xl w-full flex flex-wrap items-center justify-between mx-auto p-4"
+    >
+      <div
+        class="h-full flex flex-col items-center justify-center sc-bc212895-1 jDxewz"
+      >
+        <a
+          href="/"
+        >
+          <span
+            class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"
+          >
+            John Blossom
+          </span>
+        </a>
+      </div>
+      <button
+        aria-controls="navbar"
+        aria-expanded="false"
+        class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600 sc-503ccabd-0"
+        data-collapse-toggle="navbar"
+        type="button"
+      >
+        <span
+          class="sr-only"
+        >
+          Open main menu
+        </span>
+        <svg
+          aria-hidden="true"
+          class="w-5 h-5"
+          fill="none"
+          viewBox="0 0 17 14"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M1 1h15M1 7h15M1 13h15"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+          />
+        </svg>
+      </button>
+      <div
+        class="w-full md:block md:w-auto flex flex-row justify-end items-end"
+        id="navbar"
+      >
+        <ul
+          class="font-medium hidden flex-col gap-0 p-0 md:p-0 mt-0 absolute top-16 right-0 border border-gray-100 rounded-lg bg-gray-50 md:flex md:flex-row md:relative md:top-0 md:space-x-1 md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 dark:border-gray-700 md:dark:bg-gray-900 rtl:space-x-reverse"
+        >
+          <li
+            class="sc-bc212895-2 jkHygS"
+          >
+            <a
+              href="/"
+            >
+              Home
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="/about"
+            >
+              About
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="/skills"
+            >
+              Skills
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="/experience"
+            >
+              Experience
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="/portfolio"
+            >
+              Portfolio
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="/demos"
+            >
+              Demos
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="/contact"
+            >
+              Contact
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="https://www.linkedin.com/in/jbweb/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                class="sc-bc212895-3 nZuua"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"
+                />
+              </svg>
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="https://wellfound.com/u/jblossom"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                class="sc-bc212895-4 iQDjiC"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M23.998 8.128c.063-1.379-1.612-2.376-2.795-1.664-1.23.598-1.322 2.52-.156 3.234 1.2.862 2.995-.09 2.951-1.57zm0 7.748c.063-1.38-1.612-2.377-2.795-1.665-1.23.598-1.322 2.52-.156 3.234 1.2.863 2.995-.09 2.951-1.57zm-20.5 1.762L0 6.364h3.257l2.066 8.106 2.245-8.106h3.267l2.244 8.106 2.065-8.106h3.257l-3.54 11.274H11.39c-.73-2.713-1.46-5.426-2.188-8.14l-2.233 8.14H3.5z"
+                />
+              </svg>
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="https://github.com/jblossomweb"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                class="sc-bc212895-5 dBatzm"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"
+                />
+              </svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <main
+    class="max-w-screen-xl w-full p-4 flex mx-auto sc-3b34ddab-0 etWPQR"
+  >
+    <div
+      class=""
+    >
+      <h1
+        class="pb-4"
+      >
+        Portfolio
+      </h1>
+      <div
+        class="flex flex-wrap justify-evenly lg:gap-x-8"
+      >
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Cruisebound
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Cruisebound"
+                aria-label="Cruisebound"
+                data-nimg="1"
+                decoding="async"
+                fetchpriority="high"
+                height="356"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcruisebound.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcruisebound.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcruisebound.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Cruisebound"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Bitly Dashboard
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Bitly Dashboard"
+                aria-label="Bitly Dashboard"
+                data-nimg="1"
+                decoding="async"
+                fetchpriority="high"
+                height="356"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbitly.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbitly.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbitly.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Bitly Dashboard"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Bitly Analytics
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Bitly Analytics"
+                aria-label="Bitly Analytics"
+                data-nimg="1"
+                decoding="async"
+                fetchpriority="high"
+                height="356"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbitly-analytics.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbitly-analytics.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbitly-analytics.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Bitly Analytics"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Milwaukee Bucks
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Milwaukee Bucks"
+                aria-label="Milwaukee Bucks"
+                data-nimg="1"
+                decoding="async"
+                fetchpriority="high"
+                height="356"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbucks.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbucks.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbucks.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Milwaukee Bucks"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Detroit Pistons
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Detroit Pistons"
+                aria-label="Detroit Pistons"
+                data-nimg="1"
+                decoding="async"
+                fetchpriority="high"
+                height="356"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fpistons.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fpistons.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fpistons.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Detroit Pistons"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Simplecast
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Simplecast"
+                aria-label="Simplecast"
+                data-nimg="1"
+                decoding="async"
+                fetchpriority="high"
+                height="356"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fsimplecast.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fsimplecast.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fsimplecast.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Simplecast"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Weedmaps Promo Codes
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Weedmaps Promo Codes"
+                aria-label="Weedmaps Promo Codes"
+                data-nimg="1"
+                decoding="async"
+                fetchpriority="high"
+                height="356"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fweedmaps-promo-code.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fweedmaps-promo-code.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fweedmaps-promo-code.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Weedmaps Promo Codes"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Solstice Cloud
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Solstice Cloud"
+                aria-label="Solstice Cloud"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fkeplerclient.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fkeplerclient.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fkeplerclient.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Solstice Cloud"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            The Bakery
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="The Bakery"
+                aria-label="The Bakery"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbakery.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbakery.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbakery.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="The Bakery"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            New York Jets App
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="New York Jets App"
+                aria-label="New York Jets App"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fnew-york-jets.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fnew-york-jets.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fnew-york-jets.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="New York Jets App"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Toronto FC App
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Toronto FC App"
+                aria-label="Toronto FC App"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Ftorontofc.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Ftorontofc.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Ftorontofc.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Toronto FC App"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Clemson TigerNet App
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Clemson TigerNet App"
+                aria-label="Clemson TigerNet App"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Ftigernet.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Ftigernet.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Ftigernet.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Clemson TigerNet App"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            OneUp Sports Chat
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="OneUp Sports Chat"
+                aria-label="OneUp Sports Chat"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fchat.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fchat.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fchat.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="OneUp Sports Chat"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Highwinds Striketracker
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Highwinds Striketracker"
+                aria-label="Highwinds Striketracker"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fstriketracker.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fstriketracker.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fstriketracker.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Highwinds Striketracker"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Cielo Cinema Manager
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Cielo Cinema Manager"
+                aria-label="Cielo Cinema Manager"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcielo.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcielo.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcielo.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Cielo Cinema Manager"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Cielo Admin
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Cielo Admin"
+                aria-label="Cielo Admin"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcielo-admin.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcielo-admin.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcielo-admin.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Cielo Admin"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            V2 Cigs
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="V2 Cigs"
+                aria-label="V2 Cigs"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fv2cigscz.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fv2cigscz.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fv2cigscz.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="V2 Cigs"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Vapor Couture
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Vapor Couture"
+                aria-label="Vapor Couture"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fvaporcouture.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fvaporcouture.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fvaporcouture.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Vapor Couture"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Card Offers
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Card Offers"
+                aria-label="Card Offers"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcardoffers.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcardoffers.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcardoffers.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Card Offers"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Ohio State Buckeyes
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Ohio State Buckeyes"
+                aria-label="Ohio State Buckeyes"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fohiostatebuckeyes.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fohiostatebuckeyes.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fohiostatebuckeyes.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Ohio State Buckeyes"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Colorado Buffaloes
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Colorado Buffaloes"
+                aria-label="Colorado Buffaloes"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcubuffs.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcubuffs.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcubuffs.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Colorado Buffaloes"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Georgia Bulldogs
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Georgia Bulldogs"
+                aria-label="Georgia Bulldogs"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgeorgiadogs.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgeorgiadogs.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgeorgiadogs.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Georgia Bulldogs"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Virginia Cavaliers
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Virginia Cavaliers"
+                aria-label="Virginia Cavaliers"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fvirginiasports.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fvirginiasports.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fvirginiasports.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Virginia Cavaliers"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            FIU Panthers
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="FIU Panthers"
+                aria-label="FIU Panthers"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Ffiupanthers.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Ffiupanthers.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Ffiupanthers.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="FIU Panthers"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Idaho Vandals
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Idaho Vandals"
+                aria-label="Idaho Vandals"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgovandals.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgovandals.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgovandals.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Idaho Vandals"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Arkansas State Red Wolves
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Arkansas State Red Wolves"
+                aria-label="Arkansas State Red Wolves"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fastateredwolves.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fastateredwolves.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fastateredwolves.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Arkansas State Red Wolves"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Robert Morris Colonials
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Robert Morris Colonials"
+                aria-label="Robert Morris Colonials"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Frmucolonials.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Frmucolonials.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Frmucolonials.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Robert Morris Colonials"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Seattle Redhawks
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Seattle Redhawks"
+                aria-label="Seattle Redhawks"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgoseattleu.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgoseattleu.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgoseattleu.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Seattle Redhawks"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Charlotte 49ers
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Charlotte 49ers"
+                aria-label="Charlotte 49ers"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcharlotte49ers.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcharlotte49ers.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcharlotte49ers.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Charlotte 49ers"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Chattanooga Mocs
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Chattanooga Mocs"
+                aria-label="Chattanooga Mocs"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgomocs.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgomocs.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgomocs.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Chattanooga Mocs"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Charleston Cougars
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Charleston Cougars"
+                aria-label="Charleston Cougars"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcofcsports.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcofcsports.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcofcsports.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Charleston Cougars"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Drake Bulldogs
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Drake Bulldogs"
+                aria-label="Drake Bulldogs"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgodrakebulldogs.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgodrakebulldogs.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgodrakebulldogs.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Drake Bulldogs"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Akron Zips
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Akron Zips"
+                aria-label="Akron Zips"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgozips.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgozips.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fgozips.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Akron Zips"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Big 12 Sports
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Big 12 Sports"
+                aria-label="Big 12 Sports"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbig12sports.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbig12sports.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fbig12sports.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Big 12 Sports"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            MAAC Sports
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="MAAC Sports"
+                aria-label="MAAC Sports"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fmaacsports.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fmaacsports.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fmaacsports.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="MAAC Sports"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            College Sports Direct
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="College Sports Direct"
+                aria-label="College Sports Direct"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcollegesportsdirect.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcollegesportsdirect.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fcollegesportsdirect.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="College Sports Direct"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Utah Tickets
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Utah Tickets"
+                aria-label="Utah Tickets"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Futahtickets.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Futahtickets.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Futahtickets.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Utah Tickets"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Nassau Coliseum
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Nassau Coliseum"
+                aria-label="Nassau Coliseum"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fnassau.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fnassau.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fnassau.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Nassau Coliseum"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+        <div
+          class="pb-8 w-full lg:w-96 text-base"
+        >
+          <h2
+            class="pb-2"
+          >
+            Michael Waltrip Racing
+          </h2>
+          <div
+            class="flex align-center justify-center pb-4"
+          >
+            <figure
+              class=""
+            >
+              <img
+                alt="Michael Waltrip Racing"
+                aria-label="Michael Waltrip Racing"
+                data-nimg="1"
+                decoding="async"
+                height="356"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fmichaelwaltrip.jpg&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fmichaelwaltrip.jpg&w=1200&q=75 1x, /_next/image?url=https%3A%2F%2Fjblossom-io-images.s3.us-west-1.amazonaws.com%2Fmichaelwaltrip.jpg&w=3840&q=75 2x"
+                style="color: transparent;"
+                title="Michael Waltrip Racing"
+                width="1140"
+              />
+            </figure>
+          </div>
+          <p
+            class=""
+          >
+            Vestibulum felis neque, cursus varius maximus non, ornare a magna. Donec et neque sed lorem eleifend elementum. Maecenas urna elit, malesuada sed turpis gravida, porta imperdiet ex. Vivamus efficitur nulla diam, eget vulputate arcu ornare id. Sed commodo lacinia tortor et interdum. In mauris turpis, aliquet et odio a, interdum blandit magna. Donec et volutpat turpis. Suspendisse potenti. In vel facilisis nisl, eget pretium quam. Vivamus efficitur nibh ut urna tincidunt lacinia. Nulla porttitor augue ex, quis luctus felis mattis nec. Aliquam ultricies, diam et varius lacinia, dui quam gravida magna, in dignissim lectus massa in ante. Ut ultricies dignissim sapien sed iaculis. Pellentesque pulvinar, ligula sed rutrum accumsan, erat arcu condimentum dui, et porttitor dolor ipsum at massa.
+          </p>
+        </div>
+      </div>
+    </div>
+  </main>
+</DocumentFragment>
+`;

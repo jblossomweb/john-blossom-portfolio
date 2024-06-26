@@ -1,0 +1,1165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ui/views/ExperiencePage component stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <nav
+    class="bg-white drop-shadow border-gray-200 dark:bg-gray-900 flex items-center sc-bc212895-0 bDifmG"
+  >
+    <div
+      class="max-w-screen-xl w-full flex flex-wrap items-center justify-between mx-auto p-4"
+    >
+      <div
+        class="h-full flex flex-col items-center justify-center sc-bc212895-1 jDxewz"
+      >
+        <a
+          href="/"
+        >
+          <span
+            class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"
+          >
+            John Blossom
+          </span>
+        </a>
+      </div>
+      <button
+        aria-controls="navbar"
+        aria-expanded="false"
+        class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600 sc-503ccabd-0"
+        data-collapse-toggle="navbar"
+        type="button"
+      >
+        <span
+          class="sr-only"
+        >
+          Open main menu
+        </span>
+        <svg
+          aria-hidden="true"
+          class="w-5 h-5"
+          fill="none"
+          viewBox="0 0 17 14"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M1 1h15M1 7h15M1 13h15"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+          />
+        </svg>
+      </button>
+      <div
+        class="w-full md:block md:w-auto flex flex-row justify-end items-end"
+        id="navbar"
+      >
+        <ul
+          class="font-medium hidden flex-col gap-0 p-0 md:p-0 mt-0 absolute top-16 right-0 border border-gray-100 rounded-lg bg-gray-50 md:flex md:flex-row md:relative md:top-0 md:space-x-1 md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 dark:border-gray-700 md:dark:bg-gray-900 rtl:space-x-reverse"
+        >
+          <li
+            class="sc-bc212895-2 jkHygS"
+          >
+            <a
+              href="/"
+            >
+              Home
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="/about"
+            >
+              About
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="/skills"
+            >
+              Skills
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="/experience"
+            >
+              Experience
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="/portfolio"
+            >
+              Portfolio
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="/demos"
+            >
+              Demos
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="/contact"
+            >
+              Contact
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="https://www.linkedin.com/in/jbweb/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                class="sc-bc212895-3 nZuua"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"
+                />
+              </svg>
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="https://wellfound.com/u/jblossom"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                class="sc-bc212895-4 iQDjiC"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M23.998 8.128c.063-1.379-1.612-2.376-2.795-1.664-1.23.598-1.322 2.52-.156 3.234 1.2.862 2.995-.09 2.951-1.57zm0 7.748c.063-1.38-1.612-2.377-2.795-1.665-1.23.598-1.322 2.52-.156 3.234 1.2.863 2.995-.09 2.951-1.57zm-20.5 1.762L0 6.364h3.257l2.066 8.106 2.245-8.106h3.267l2.244 8.106 2.065-8.106h3.257l-3.54 11.274H11.39c-.73-2.713-1.46-5.426-2.188-8.14l-2.233 8.14H3.5z"
+                />
+              </svg>
+            </a>
+          </li>
+          <li
+            class="sc-bc212895-2 jnYdyq"
+          >
+            <a
+              href="https://github.com/jblossomweb"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                class="sc-bc212895-5 dBatzm"
+                fill="currentColor"
+                height="1em"
+                role="img"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"
+                />
+              </svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <main
+    class="max-w-screen-xl w-full p-4 flex mx-auto sc-3b34ddab-0 etWPQR"
+  >
+    <div
+      class="w-full"
+    >
+      <h1
+        class="pb-4"
+      >
+        Experience
+      </h1>
+      <div
+        class="w-full flex flex-wrap gap-0"
+      >
+        <div
+          class="pb-4 pr-4"
+        >
+          <h2
+            class="pb-4"
+          >
+            Professional Experience
+          </h2>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="Bitly"
+                    aria-label="Bitly"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fbitly.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fbitly.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fbitly.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="Bitly"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Senior Front End Engineer, UX Team
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  Bitly 
+                  <span
+                    class="text-sm font-normal"
+                  >
+                    (2022-2023)
+                  </span>
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Led 5 Front End engineers on a cross-functional product squad responsible for UX of link-shortening and QR code management application. Shipped features and fixes for Bitly Dashboard along with other internal tools using React, Redux, and Typescript. Improved readability of codebase, safely refactored problematic code as needed, introduced useful, accessible patterns and tools, and initiated impactful discussions around best practices and code organization, all while balancing commitments of agile feature delivery. Helped teammates move tickets to the finish line, and measurably increased team velocity on 2 squads, in addition to the senior level role held on Front End Guild. Leveled up mid, junior, and intern engineers across the company. Paired in real-time and provided insightful, educational feedback in code reviews.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="SiriusXM"
+                    aria-label="SiriusXM"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fsiriusxm.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fsiriusxm.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fsiriusxm.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="SiriusXM"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Senior Front End Engineer, Simplecast Team
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  SiriusXM 
+                  <span
+                    class="text-sm font-normal"
+                  >
+                    (2020-2021)
+                  </span>
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Built and supported features for Vue.js front ends. Contributed to podcast dashboard application and shared component library. Mentored 3 frontend engineers, and provided friendly, constructive feedback in code reviews. Introduced Typescript, Jest testing, Storybook snapshots, changelogs, and release versioning. Fixed Webpack configurations and CI pipelines. Audited dependencies. Optimized usage of Vuex. Laid groundwork for localization in 3 languages. Increased test coverage, and coverage thresholds. Identified, documented, and reduced tech debt. Proactively identified and eliminated impure state mutations that would be otherwise difficult to trace, before they became problems.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="Weedmaps"
+                    aria-label="Weedmaps"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fweedmaps.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fweedmaps.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fweedmaps.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="Weedmaps"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Senior Front End Engineer, Ads/Monetization
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  Weedmaps 
+                  <span
+                    class="text-sm font-normal"
+                  >
+                    (2019)
+                  </span>
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Supported high-traffic Next.js app. Senior engineer on squad, and interim squad lead. Refactored and improved React components as needed. Reviewed pull requests. Added promo code features to checkout, and improved segment tracking analytics. Attended in-person monthly meetings in Irvine, CA. Helped define scope for requested features. Worked with existing setup of MobX, Flow, and Styled Components. Improved and added features to web SDK, wrote tests into SDK involving Polly.JS. Built tools into the internal Admin application as needed. Offered code reviews within the Front End guild. Learned and worked with Google Ad Manager to facilitate successful handoffs.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="Mersive Technologies"
+                    aria-label="Mersive Technologies"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fmersive.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fmersive.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fmersive.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="Mersive Technologies"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Senior Front End Lead, Solstice Cloud Team
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  Mersive Technologies 
+                  <span
+                    class="text-sm font-normal"
+                  >
+                    (2018-2019)
+                  </span>
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Helped launch SAAS platform to visualize real-time data from set-top boxes. Dockerized server-side APIs for cloud orchestration handoff. Inherited React dashboard application, onboarding application, and various pieces of set-top box UX built with React, Redux, and Typescript. Introduced test patterns, increased coverage by 75%, and integrated Storybook. Decoupled client, isolated deploy pipeline, and defined a Git Flow build/release process with CI integration. Hired, trained, and led a 4-person Front-End team. Cleared blockers, and built features. Reviewed pull requests, mentored teammates, and increased velocity 400% by separating concern to facilitate concurrent development.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="Baker Technologies"
+                    aria-label="Baker Technologies"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fbaker.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fbaker.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fbaker.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="Baker Technologies"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Senior Full-Stack Engineer, Integrations Team Lead
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  Baker Technologies 
+                  <span
+                    class="text-sm font-normal"
+                  >
+                    (2017-2018)
+                  </span>
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Built features into React web apps. Fixed server side bugs in legacy PHP systems. Used Node.js to deliver integrations with over 20 menu and point-of-sale systems.  Transitioned with reorganized squads to a Dockerized microservice architecture. Attended GCP workshops at Google HQ in Boulder. Promoted to team lead, and cross‑trained as scrum master. Interviewed engineering candidates in the hiring process, and reviewed demo projects submitted. Actively supported efforts of incoming CTO for implementation of agile methodologies, spread positivity, and cleared blockers for teammates. Cleaned the office when it got messy. Won a ping-pong tournament representing Baker at Denver Startup Games.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="OneUp Sports"
+                    aria-label="OneUp Sports"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Foneup.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Foneup.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Foneup.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="OneUp Sports"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Node.js Web Services Engineer
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  OneUp Sports 
+                  <span
+                    class="text-sm font-normal"
+                  >
+                    (2015-2016)
+                  </span>
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Built ETL workers and REST API web services powering official iOS/Android apps for pro and college sports teams in MLB, NFL, NHL, NBA, MLS, EPL, and NCAA, leveraging Node.js, Express, MongoDB, and AWS. Automated data retrieval and normalization from multiple source feeds. Migrated legacy data from SQL Server to MongoDB. Built a standalone single sign-on service, and integrated a Socket.io based real-time chat server. Documented API, and helped define scope for features. Helped frontend web developers debug Ember app. Worked closely with iOS and Android developers to gather requirements and triage bugs or feed issues. Maintained a long-term relationship as a contractor after leaving company.
+            </p>
+          </div>
+        </div>
+        <div
+          class="pb-4 pr-4"
+        >
+          <h2
+            class="pb-4"
+          >
+            Recent Contract Work
+          </h2>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="MiraDx"
+                    aria-label="MiraDx"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fmiradx.jpg&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fmiradx.jpg&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fmiradx.jpg&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="MiraDx"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Principal Front End Engineer
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  MiraDx 
+                  <span
+                    class="text-sm font-normal"
+                  >
+                    (2024)
+                  </span>
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Supported 5 internal and external Next.js web portals powered by a Salesforce and Firebase back-end, used to track medical test orders and results. Introduced new patterns into React Typescript codebase. Refactored mission-critical components, pages, and forms. Implemented features under deadline, updated dependencies, and fixed hydration errors.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="Cruisebound"
+                    aria-label="Cruisebound"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fcruisebound.jpg&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fcruisebound.jpg&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fcruisebound.jpg&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="Cruisebound"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Staff Front End Engineer
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  Cruisebound 
+                  <span
+                    class="text-sm font-normal"
+                  >
+                    (2023)
+                  </span>
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Built features into Next.js cruise booking website. Introduced new patterns into React Typescript codebase, documented, and communicated usage to 3 different teams across 3 regions in multiple time zones. Trained, advised, actively included teams in USA, Latin America, and the Philippines. Added segment tracking analytics, and managed feature flag rollouts with GrowthBook. Repaired E2E tests, and added conditional logic based on feature flags. Paired and reviewed pull requests for all teams, and delegated code review for all pull requests as necessary.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="National Basketball Association"
+                    aria-label="National Basketball Association"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fnba.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fnba.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fnba.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="National Basketball Association"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Senior Front End Engineer, CMS Team
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  National Basketball Association 
+                  <span
+                    class="text-sm font-normal"
+                  >
+                    (2021)
+                  </span>
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Built Gutenberg components with React, Redux, and Typescript, to aid editors in migrating team content to headless CMS consumed by Next.js application powering NBA.com. Worked with other teams to optimize overall contributor experience. Trained engineers unaccustomed to React.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="Hear.com"
+                    aria-label="Hear.com"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fhear.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fhear.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fhear.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="Hear.com"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Senior Full-Stack Engineer
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  Hear.com 
+                  <span
+                    class="text-sm font-normal"
+                  >
+                    (2020)
+                  </span>
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Led a 7-person squad distributed between the United States, Canada, and Germany, to deliver transitional solutions into web portals for a video-based hearing aid fitting SaaS product during COVID-19. Contributed full stack with pgSQL, Node.js, Express, React, Redux, and Typescript. Identified and addressed SQL injection vulnerabilities, and advised on planning for future event-driven architecture.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="Media News Group"
+                    aria-label="Media News Group"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fmedianewsgroup.jpg&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fmedianewsgroup.jpg&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fmedianewsgroup.jpg&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="Media News Group"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Full-Stack Software Engineer, AdTech Team
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  Media News Group 
+                  <span
+                    class="text-sm font-normal"
+                  >
+                    (2016)
+                  </span>
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Built features into AdTaxi application, using Meteor and React. Led effort to refactor code to favor NPM, ES6, and explicit module imports. Improved tabular data views, contributed to open source as needed. Helped QA fix test bugs, and increased E2E coverage with Selenium.
+            </p>
+          </div>
+        </div>
+        <div
+          class="pb-4 pr-4"
+        >
+          <h2
+            class="pb-4"
+          >
+            Early Career Highlights
+          </h2>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="StarStar Mobile"
+                    aria-label="StarStar Mobile"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fstarstar.jpg&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fstarstar.jpg&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fstarstar.jpg&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="StarStar Mobile"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Senior Full-Stack Software Engineer
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  StarStar Mobile
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Built mobile-first microsites with AngularJS and supported PHP systems to send links via text message upon incoming calls. Improved UX quality with each iteration. Built REST API into Symfony monolith. Introduced web-based client-side geolocation to increase position accuracy and reduce need to triangulate through cellular providers. Laid groundwork to seamlessly migrate web-based microsites to native apps with Ionic. Built internal dashboard with features utilizing Google Maps, charts, and real-time reporting. Built a wizard to quickly scaffold microsites.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="Cinema Equipment and Supplies"
+                    aria-label="Cinema Equipment and Supplies"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fcinemaequip.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fcinemaequip.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fcinemaequip.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="Cinema Equipment and Supplies"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Senior Full-Stack Software Engineer, Cielo Team
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  Cinema Equipment and Supplies
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Led 5-person pivot team to build SaaS platform for movie theater monitoring/management. Fixed bugs and performance issues in inherited codebase. Pushed websocket events, transitioned application to real-time. Integrated Mandrill, Zendesk, and SalesForce. Built a secure admin panel to convert leads, onboard new customers, and manage new users. Added templates for transactional emails. Switched SVN repos to GIT, branched, isolated stable releases for demo/production. Documented, deployed Apache/MySQL changes to servers. Increased sprint velocity, and maintained positive burndown during scope creep. Iterated a facade to a functional beta within 3 months, and provided support.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="VMR Products"
+                    aria-label="VMR Products"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fv2cigs.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fv2cigs.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fv2cigs.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="VMR Products"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Full-Stack Software Engineer, E-Commerce Team
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  VMR Products
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Built e-commerce solutions for industry-leading electronic cigarette brands. Migrated product and customer data to Magento. Targeted email campaigns. Localized Czech content and business logic. Built custom POS terminals for kiosks, integrated with previously unsupported payment gateway. Migrated from BaseCamp to JIRA, architected custom workflow and GIT integration. Trained junior developers, and internal users.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="Highwinds CDN"
+                    aria-label="Highwinds CDN"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fhighwinds.jpg&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fhighwinds.jpg&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fhighwinds.jpg&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="Highwinds CDN"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Full-Stack Software Engineer
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  Highwinds CDN
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Gained valuable experience working for a CDN. Supported AngularJS client and PHP/Slim REST API for StrikeTracker 3. Fully optimized responsive design for mobile devices within 1 sprint. Fixed bugs and developed new features to TDD spec. Used PHPUnit to write meaningful tests for missing coverage reported by Clover. Used Fabric, Vagrant, Selenium, and Protractor to write and automate E2E tests. Leveled up on QA, design patterns, and basics of algorithmic time complexity. Became disciplined to stricter coding standards and timeboxing. Gained experience with repository pattern, inversion of control, dependency injection, modularity, testability, unit testing, e2e testing, and build stability.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="FlexOffers"
+                    aria-label="FlexOffers"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fflexoffers.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fflexoffers.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fflexoffers.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="FlexOffers"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Full-Stack Web Developer, CardOffers Team
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  FlexOffers
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Built a custom PHP MySQL web application to run on Windows/IIS7 stack. Wrote PHP code to consume SOAP feeds from financial institutions. Integrated this ETL into a custom-built Wordpress plugin. Used CodeIgniter MVC framework to serve up a standalone front end stack for imported and customized content in Wordpress database, while preserving Wordpress CMS interface. Hand-coded HTML, CSS, and Javascript to detailed specs from the in-house designer. Trained editors, managers, and SEO team, and customized Wordpress CMS interface to request.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="Full Sail University"
+                    aria-label="Full Sail University"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Ffullsail.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Ffullsail.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Ffullsail.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="Full Sail University"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Course Director, Instructor, Server-Side Languages
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  Full Sail University
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Taught accelerated PHP, ColdFusion, and MVC Frameworks courses at an accredited university. Wrote curriculum, lectured classroom, and graded projects. Worked closely with program director and Databases instructor to contribute ideas for evolving course catalog. Developed boilerplate apps for students. Worked 1:1 with each student to ensure understanding of material. Received 100% approval rating from anonymous student reviews.
+            </p>
+          </div>
+          <div
+            class="w-full pb-6"
+          >
+            <div
+              class="flex flex-row justify-start align-center gap-2"
+            >
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <figure
+                  class=""
+                >
+                  <img
+                    alt="Neulion"
+                    aria-label="Neulion"
+                    data-nimg="1"
+                    decoding="async"
+                    height="50"
+                    loading="lazy"
+                    src="/_next/image?url=%2Flogos%2Fneulion.png&w=128&q=75"
+                    srcset="/_next/image?url=%2Flogos%2Fneulion.png&w=64&q=75 1x, /_next/image?url=%2Flogos%2Fneulion.png&w=128&q=75 2x"
+                    style="color: transparent;"
+                    title="Neulion"
+                    width="50"
+                  />
+                </figure>
+              </div>
+              <div
+                class="sc-722df74f-0 ldxkvX"
+              >
+                <h3
+                  class="text-xl font-bold italic"
+                >
+                  Web Developer, College Platform Team
+                </h3>
+                <h4
+                  class="text-lg font-bold pb-2"
+                >
+                  Neulion
+                </h4>
+              </div>
+            </div>
+            <p
+              class="w-full text-base"
+            >
+              Built and launched official sports websites onto proprietary CMS, under tight deadlines. Added features and supported over 200 existing sites on the network. Fine-tuned HTML, CSS, and Javascript for cross-browser compatibility, including IE6. Used jQuery for AJAX functionality and visual effects. Improved Oracle SQL queries for performance in a high-load environment. Learned from seniors on staff at first, and grew to eventually help train new developers, project managers, support staff, and web producers. Adapted to change through two corporate mergers.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</DocumentFragment>
+`;

@@ -6,6 +6,7 @@ export interface ImageProps {
   src: string
   width: number
   height: number
+  priority?: boolean
   className?: React.HTMLAttributes<HTMLElement>['className']
 }
 
@@ -14,6 +15,7 @@ const Image: React.FC<ImageProps> = ({
   src,
   width,
   height,
+  priority = false,
   className = '',
 }) => (
   <figure className={className}>
@@ -24,6 +26,7 @@ const Image: React.FC<ImageProps> = ({
       src={src}
       width={width}
       height={height}
+      priority={priority}
     />
   </figure>
 )
